@@ -325,7 +325,7 @@ export default function FestivalAuction() {
             <ul className="space-y-1">
               <li>• Wait for the last minute to bid</li>
               <li>• Start with small increments</li>
-              <li>• Watch other bidders' patterns</li>
+              <li>• Watch other bidders&apos; patterns</li>
             </ul>
           </div>
           <div>
